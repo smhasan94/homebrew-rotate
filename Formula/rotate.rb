@@ -8,23 +8,23 @@ class Rotate < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/smhasan94/rotate/releases/download/v0.2.0/rotate-0.2.0-aarch64-apple-darwin.tar.gz"
-      sha256 "691b07d0e6f094d760ef41a5cfbb0d562e95c716e9e99907504d4873d30ef39b"
+      url "https://github.com/smhasan94/rotate/releases/download/v0.3.0/rotate-0.3.0-aarch64-apple-darwin.tar.gz"
+      sha256 "8bb4446d2a4d6d5ccccb663a05e1992491794389374a095c66d7fb76bf5b1f03"
     end
     on_intel do
-      url "https://github.com/smhasan94/rotate/releases/download/v0.2.0/rotate-0.2.0-x86_64-apple-darwin.tar.gz"
-      sha256 "0a486d7390926cd4c78e98b3ace25138d48ae6307659f226a27943f823320550"
+      url "https://github.com/smhasan94/rotate/releases/download/v0.3.0/rotate-0.3.0-x86_64-apple-darwin.tar.gz"
+      sha256 "24b397d5189d86ea3102ecf6b8b813bbcfd270be48ddc55daf5382866ed702c9"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/smhasan94/rotate/releases/download/v0.2.0/rotate-0.2.0-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "c55e11e1342cb2616280a6a530a3410db9130e4c3390f0ef7f449e0199d81f31"
+      url "https://github.com/smhasan94/rotate/releases/download/v0.3.0/rotate-0.3.0-aarch64-unknown-linux-gnu.tar.gz"
+      sha256 "a67e0356cd3f2743dd03fdd38aa791118109193646205d325428845e3d20a309"
     end
     on_intel do
-      url "https://github.com/smhasan94/rotate/releases/download/v0.2.0/rotate-0.2.0-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "8b12e4866fadbba13f2125f8402507e4f6f5276020ae1dfc926db5db939ae534"
+      url "https://github.com/smhasan94/rotate/releases/download/v0.3.0/rotate-0.3.0-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "8fcd981edfdd8e8b2e63398df218982b83d399828a83af362c8d7d758191a900"
     end
   end
 
